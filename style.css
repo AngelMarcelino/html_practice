@@ -1,0 +1,57 @@
+.center-italic {
+    text-align: center;
+    font-style: italic;
+}
+.right-sans {
+    text-align: right;
+    font-family: sans-serif;
+}
+
+#highlight {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #ee8822;
+    font-size: 2em;
+}
+
+p {
+    border: dashed;
+    margin: 2em;
+    padding: 1em;
+    overflow: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #254E84;
+}
+a:hover {
+    font-size: 1.5em;
+}
+
+ul {
+    list-style: armenian;
+}
+
+table {
+    background-color: #FABEB5;
+}
+
+table td, table th {
+    border: 1px solid #bbb;
+}
+
+th {
+    color: #ff5500;
+}
+
+img {
+    float: right;
+}
+
+body {
+    background-color: #B9CBE2;
+}
+
